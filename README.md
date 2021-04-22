@@ -1,1 +1,3 @@
 # unsupervied_learning
+
+## CÉCILE COUSIN, MATTHIEU ALEXANDRE, VICTOR MEYER
